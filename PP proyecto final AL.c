@@ -3,8 +3,9 @@
 #include <stdlib.h>
 #include <windows.h>
 #include <stdbool.h>
+//yo
 
-	char listaDeNombres[10][25]={"Ana Carrera","Juan Perez","Marcos Ochoa","José Broce","María Arrocha","Alex Mo","Axel Juárez","Juan Gomez","Mar Rojas","Lina Nieto"};
+	char listaDeNombres[10][25]={"Ana Carrera","Juan Perez","Marcos Ochoa","Josï¿½ Broce","Marï¿½a Arrocha","Alex Mo","Axel Juï¿½rez","Juan Gomez","Mar Rojas","Lina Nieto"};
     char matricula[10];
 	bool estacionamientos[2][5];
     char listaDeMatriculas[10][10]={"M40095","AA13452","0094529","KZ12540","OA65810","AA20931","9999125","AZ41262","6705531","AG9831"};
